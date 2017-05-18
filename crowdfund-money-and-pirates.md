@@ -1,8 +1,19 @@
 ### Crowdfund, Money & Pirates
 
-To get started and get the first boat afloat we need at least **3600 Eth** \($250,000 USD\) to survive for a year up to maximum safety limit of **14499 Eth **\($999,999 USD\)
+## Specifics
 
-Funds are held in the adapted multisig wallet and used mostly to get and fit out the hackspace boat.
+To get started and get the first boat afloat the project need at least 1100** Eth** \($100,000 USD\) to survive for a year 
+
+Funds are capped at a safety limit of 11111.1** Eth **\($999,999 USD\)
+
+The crowdfund will last 8 weeks
+
+Supporters each get two tokens: 
+
+* A single, non-transferable Citizenship token
+* 1000 Entropy for 1.0 eth
+
+Funds are held in the adapted multisig wallet and used mostly to purchase, setup and fit out the first hackspace boat.
 
 ![](/assets/ether_allocation.png)
 
@@ -12,9 +23,9 @@ Project Entropy tries to tie in the digital world of cryptocurrency with the tan
 
 * $100,000: MVP. Small but ocean going boat of around US$40,000-$50,000 and funds for refit and cruising in mainly one area \(e.g. South East Asia, Mediterranean Sea, US East Coast or Pacific Islands\) depending of where the boat is purchased and what the crowd decides to do\)
 * $250,000: Solid. A bigger boat that is better suited for a hackspace \(e.g. catamaran\), refit and running costs for a year. Ocean crossings are planned and circumnavigation is aimed for
-* $500,000+: Funds allow for a bigger boat to host more people
+* $500,000+: Funds allow for a bigger, or additional boat to host more people
 
-#### Rewards?
+#### Rewards
 
 Slow trade directly from producer \(e.g. coffee, rum or tea\), bought with bitcoin or ether
 

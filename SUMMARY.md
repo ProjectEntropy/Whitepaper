@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Starting](starting.md)
+* [PLAN](plan.md)
 * [Hackspace](hackspace.md)
 * [Incubator](incubator.md)
 * [Entropy DAO](entropy-dao.md)

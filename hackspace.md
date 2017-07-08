@@ -4,9 +4,9 @@ The main components of a hackspace are accessibility to an array of tools like p
 
 They allow for creativity, sharing knowledge and trialling and learning new stuff. It is a place where people are supported to build stuff that they think can be valuable in many different ways, like projects around sustainability, open source or simply to making someone smile.
 
-A Hackspace on a boat makes sense as the project can reach remote areas sustainably and bring all the tools necessary with it. The project envisions to carry traditional power and hand tools as well as equipment to make 3D printers and CNC milling machines such as RepRap Printers and Maslow CNC the [https://github.com/MaslowCNC](https://github.com/MaslowCNC)
+A Hackspace on a boat makes sense as the project can reach remote areas sustainably and bring all the tools necessary with it. The project envisions to carry traditional power and hand tools as well as equipment to make further 3D printers and CNC milling machines such as RepRap Printers or Maslow CNC routers [https://github.com/MaslowCNC](https://github.com/MaslowCNC) which can stay in visited places.
 
-Important is that Project Entropy does not aim to teach top down but to encourage to discover and learn through joining the projects that are initiated by the people onboard inspiring them to their own.
+Important is that Project Entropy does not aim to teach top down but to encourage to discover and learn through joining the projects that are initiated by the people onboard inspiring them to their own - hopefully seeding local makerspaces!
 
 ### Guiding **Principles**
 
@@ -17,9 +17,9 @@ Also, you can use anything aboard for anything you’d like - parts or as part o
 
 
 
-**non exclusivity:**
+**Non-exclusivity:**
 
-Space is always limited, but side rooms should be available for running events in, but it’s important that others can always use the main space for their own thing even while your thing is going on.  
+Space is always limited on boats, but events are welcome and encouraged! Please speak to your fellow boat inhabitants when it is a good time for an event or if the space can accomodate your event and individual projects at the same time. 
 Also events must be open to everyone who’s interested and cannot be charged for - knowledge is free.
 
   

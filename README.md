@@ -1,11 +1,13 @@
 # ![](/assets/sail_up_logo.jpg)
 
-# Project Entropy - Whitepaper
+# Project Entropy - Dreams, Hopes & Aspirations
 
 #### Intro
 
-Entropy is a flotilla of Ethereum-directed hackspace boats that people can use to travel and to hangout and make stuff on.
+Entropy is part outreach, part incubator and part wild experiments.
 
-The boats are maintained by people who hangout on them and sailed by people who can sail them with other people on them safely.
+We operate **Mobile hackspaces** to bring them to parts of the world that normally are left behind, but where really they can do much more good, with the aim of seeding permanent spaces for people to share tools and wisdom (https://projectentropy.gitbooks.io/whitepaper/content/hackspace.html)
 
-Where they sail and what they do \(and why they do it\) is decided by people on the boats, along with everyone who helped so far.
+We **support others building worth while open stuff** which makes the world better - the aim being to free groups from any sort of financial pressure for a while so they can create freely
+
+The spaces, boats and vehicles we run work as **testbeds for trying out ideas** which don't necessarily need to make commercial sense
